@@ -12,7 +12,7 @@
 
 ## Hello, everyone 👋
 
-I'm studying about Full-Stack developer with _JavaScript_ (Node.js, ReactJS, React Native).<br/>
+I'm a Full-Stack developer with _JavaScript_ (Node.js, ReactJS, React Native).<br/>
 Here on my GitHub profile you can see all my projects. Also I like to help new Dev's to get inside this world and learning about software development.
 
 I am a volunteer mentor within the Space Squad team at [Rocketseat](https://rocketseat.com.br/) and that is awesome.
