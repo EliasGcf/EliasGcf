@@ -1,4 +1,6 @@
-<img src="https://res.cloudinary.com/eliasgcf/image/upload/v1597421821/me_solfhe.gif" alt="GIF">
+<p align="center">
+  <img src="https://res.cloudinary.com/eliasgcf/image/upload/v1597421821/me_solfhe.gif" alt="GIF">
+</p>
 
 ## Hello, everyone 👋
 
