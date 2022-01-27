@@ -1,6 +1,6 @@
 ## Elias Gabriel
 
-Community Experience [@Rocketseat](https://github.com/Rocketseat)
+Developer Instructor at [@Rocketseat](https://github.com/Rocketseat)
 
 I'm a _JavaScript_ Full-Stack Developer (Node.js, ReactJS, React Native).<br/>
 
